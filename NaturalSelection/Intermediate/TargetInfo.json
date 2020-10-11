@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NaturalSelection",
+			"Path": "E:\\GameProgramming2\\Unreal Natural selection simulation\\NaturalSelection\\Source\\NaturalSelection.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NaturalSelectionEditor",
+			"Path": "E:\\GameProgramming2\\Unreal Natural selection simulation\\NaturalSelection\\Source\\NaturalSelectionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

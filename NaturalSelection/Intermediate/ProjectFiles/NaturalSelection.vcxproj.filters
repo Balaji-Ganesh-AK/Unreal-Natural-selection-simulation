@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NaturalSelection.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D7568891-2E88-414F-852A-2116AD3643DD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NaturalSelection.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NaturalSelectionEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{33FB8439-B819-49AD-975B-EF6EEB5B7BB9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NaturalSelection">
+      <UniqueIdentifier>{F42B284A-7064-4D91-8331-163566E5E461}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NaturalSelection\NaturalSelection.Build.cs">
+      <Filter>Source\NaturalSelection</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NaturalSelection\NaturalSelection.cpp">
+      <Filter>Source\NaturalSelection</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NaturalSelection\NaturalSelection.h">
+      <Filter>Source\NaturalSelection</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NaturalSelection\NaturalSelectionGameModeBase.cpp">
+      <Filter>Source\NaturalSelection</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NaturalSelection\NaturalSelectionGameModeBase.h">
+      <Filter>Source\NaturalSelection</Filter>
+    </ClInclude>
+    <Filter Include="Source\NaturalSelection\CharacterTypes">
+      <UniqueIdentifier>{D37B77E5-29B1-409A-8C7A-5438A254DE27}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NaturalSelection\CharacterTypes\Ch_Type1.cpp">
+      <Filter>Source\NaturalSelection\CharacterTypes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NaturalSelection\CharacterTypes\Ch_Type1.h">
+      <Filter>Source\NaturalSelection\CharacterTypes</Filter>
+    </ClInclude>
+    <Filter Include="Source\NaturalSelection\FoodTypes">
+      <UniqueIdentifier>{0D5BC67B-848D-4316-9FE9-260A339E3886}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NaturalSelection\FoodTypes\Food_type1.cpp">
+      <Filter>Source\NaturalSelection\FoodTypes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NaturalSelection\FoodTypes\Food_type1.h">
+      <Filter>Source\NaturalSelection\FoodTypes</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
