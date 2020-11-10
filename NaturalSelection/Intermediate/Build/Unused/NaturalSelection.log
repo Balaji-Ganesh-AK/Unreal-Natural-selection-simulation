@@ -1,11 +1,3 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\GameProgramming2\Unreal Natural selection simulation).
-  Building NaturalSelectionEditor...
-  Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 3 actions with 16 processes...
-    [1/3] UE4Editor-NaturalSelection.lib
-       Creating library E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\UE4Editor-NaturalSelection.lib and object E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\UE4Editor-NaturalSelection.exp
-    [2/3] UE4Editor-NaturalSelection.dll
-       Creating library E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\UE4Editor-NaturalSelection.suppressed.lib and object E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\UE4Editor-NaturalSelection.suppressed.exp
-    [3/3] NaturalSelectionEditor.target
-  Total time in Parallel executor: 0.90 seconds
-  Total execution time: 1.37 seconds
+  Target is up to date
+  Total execution time: 0.49 seconds

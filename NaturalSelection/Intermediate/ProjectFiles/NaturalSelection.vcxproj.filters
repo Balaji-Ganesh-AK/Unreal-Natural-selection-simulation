@@ -44,12 +44,6 @@
     <Filter Include="Source\NaturalSelection\CharacterTypes">
       <UniqueIdentifier>{D37B77E5-29B1-409A-8C7A-5438A254DE27}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\NaturalSelection\CharacterTypes\Ch_Type1.cpp">
-      <Filter>Source\NaturalSelection\CharacterTypes</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\NaturalSelection\CharacterTypes\Ch_Type1.h">
-      <Filter>Source\NaturalSelection\CharacterTypes</Filter>
-    </ClInclude>
     <Filter Include="Source\NaturalSelection\FoodTypes">
       <UniqueIdentifier>{0D5BC67B-848D-4316-9FE9-260A339E3886}</UniqueIdentifier>
     </Filter>
@@ -58,6 +52,16 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\NaturalSelection\FoodTypes\Food_type1.h">
       <Filter>Source\NaturalSelection\FoodTypes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\NaturalSelection\CharacterTypes\Ch_TypeOne.cpp">
+      <Filter>Source\NaturalSelection\CharacterTypes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\NaturalSelection\CharacterTypes\Ch_TypeOne.h">
+      <Filter>Source\NaturalSelection\CharacterTypes</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
