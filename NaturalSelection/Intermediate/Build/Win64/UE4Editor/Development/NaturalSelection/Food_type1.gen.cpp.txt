@@ -2,4 +2,6 @@ E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Interme
 E:\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 E:\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Source\NaturalSelection/FoodTypes/Food_type1.h
+E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Source\NaturalSelection/FoodSpawnerActor.h
+E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Inc\NaturalSelection\FoodSpawnerActor.generated.h
 E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Inc\NaturalSelection\Food_type1.generated.h

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\NaturalSelection.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D7568891-2E88-414F-852A-2116AD3643DD}</UniqueIdentifier>
+      <UniqueIdentifier>{18C2B7A2-7C95-4E71-BC96-A8B526F1FFE3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\NaturalSelection.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{33FB8439-B819-49AD-975B-EF6EEB5B7BB9}</UniqueIdentifier>
+      <UniqueIdentifier>{5DD4C533-15A7-422E-80EB-6D36D0C65CFF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,32 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\NaturalSelection">
-      <UniqueIdentifier>{F42B284A-7064-4D91-8331-163566E5E461}</UniqueIdentifier>
+      <UniqueIdentifier>{48355EA7-EFE1-4E33-B1A6-EC10979FF665}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\NaturalSelection\AISpawnControllerActor.cpp">
+      <Filter>Source\NaturalSelection</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NaturalSelection\AISpawnControllerActor.h">
+      <Filter>Source\NaturalSelection</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NaturalSelection\FoodSpawnerActor.cpp">
+      <Filter>Source\NaturalSelection</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NaturalSelection\FoodSpawnerActor.h">
+      <Filter>Source\NaturalSelection</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NaturalSelection\GameControllerActor.cpp">
+      <Filter>Source\NaturalSelection</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NaturalSelection\GameControllerActor.h">
+      <Filter>Source\NaturalSelection</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NaturalSelection\GameEnumTypes.cpp">
+      <Filter>Source\NaturalSelection</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NaturalSelection\GameEnumTypes.h">
+      <Filter>Source\NaturalSelection</Filter>
+    </ClInclude>
     <None Include="..\..\Source\NaturalSelection\NaturalSelection.Build.cs">
       <Filter>Source\NaturalSelection</Filter>
     </None>
@@ -42,26 +66,22 @@
       <Filter>Source\NaturalSelection</Filter>
     </ClInclude>
     <Filter Include="Source\NaturalSelection\CharacterTypes">
-      <UniqueIdentifier>{D37B77E5-29B1-409A-8C7A-5438A254DE27}</UniqueIdentifier>
+      <UniqueIdentifier>{1BC93D6F-335F-4E6D-87B0-F3A4BB68ECDD}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\NaturalSelection\CharacterTypes\Ch_TypeOne.cpp">
+      <Filter>Source\NaturalSelection\CharacterTypes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NaturalSelection\CharacterTypes\Ch_TypeOne.h">
+      <Filter>Source\NaturalSelection\CharacterTypes</Filter>
+    </ClInclude>
     <Filter Include="Source\NaturalSelection\FoodTypes">
-      <UniqueIdentifier>{0D5BC67B-848D-4316-9FE9-260A339E3886}</UniqueIdentifier>
+      <UniqueIdentifier>{23082411-B70B-4165-A7C6-5FC9F5E6863D}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\NaturalSelection\FoodTypes\Food_type1.cpp">
       <Filter>Source\NaturalSelection\FoodTypes</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\NaturalSelection\FoodTypes\Food_type1.h">
       <Filter>Source\NaturalSelection\FoodTypes</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\NaturalSelection\CharacterTypes\Ch_TypeOne.cpp">
-      <Filter>Source\NaturalSelection\CharacterTypes</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\NaturalSelection\CharacterTypes\Ch_TypeOne.h">
-      <Filter>Source\NaturalSelection\CharacterTypes</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

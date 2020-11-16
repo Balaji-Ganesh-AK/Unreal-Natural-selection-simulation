@@ -1,3 +1,5 @@
 E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\Definitions.NaturalSelection.h
 E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Source\NaturalSelection\FoodTypes\Food_type1.h
+E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Source\NaturalSelection/FoodSpawnerActor.h
+E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Inc\NaturalSelection\FoodSpawnerActor.generated.h
 E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Inc\NaturalSelection\Food_type1.generated.h

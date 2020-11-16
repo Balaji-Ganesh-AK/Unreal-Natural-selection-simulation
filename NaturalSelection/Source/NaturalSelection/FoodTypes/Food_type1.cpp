@@ -18,6 +18,12 @@ void AFood_type1::BeginPlay()
 	
 }
 
+void AFood_type1::DestoryThis()
+{
+	FoodControllerRef->CurrentFoodCount--;
+	this->Destroy();
+}
+
 // Called every frame
 void AFood_type1::Tick(float DeltaTime)
 {

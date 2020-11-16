@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NaturalSelection-5576.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\NaturalSelectionEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\Ch_TypeOne.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\Food_type1.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\AISpawnControllerActor.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\FoodSpawnerActor.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\GameControllerActor.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\GameEnumTypes.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\NaturalSelection.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\NaturalSelectionGameModeBase.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\AISpawnControllerActor.gen.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\Ch_TypeOne.gen.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\FoodSpawnerActor.gen.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\Food_type1.gen.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\GameControllerActor.gen.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\GameEnumTypes.gen.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\NaturalSelection.init.gen.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\NaturalSelectionGameModeBase.gen.cpp.obj"
+"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\Default.rc2.res"
+/OUT:"E:\GameProgramming2\Unreal Natural selection simulation\NaturalSelection\Intermediate\Build\Win64\UE4Editor\Development\NaturalSelection\UE4Editor-NaturalSelection-5576.lib"
+/INCLUDE:IMPLEMENT_MODULE_NaturalSelection
